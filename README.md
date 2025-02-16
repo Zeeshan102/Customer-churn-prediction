@@ -7,8 +7,7 @@ Predict customer churn for a telecom company using a neural network. Achieves **
 
 ## Dataset
 - **Features**: 20 attributes (demographics, services, billing).
-- **Target**: `Churn` (0 = retained, 1 = left).
-- **Source**: [Telco Customer Churn Data](https://example.com/dataset-link).
+- **Target**: `Churn` (0 = retained, 1 = left)
 
 ---
 
